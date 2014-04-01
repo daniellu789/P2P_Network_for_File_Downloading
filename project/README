@@ -1,0 +1,6 @@
+How to start?
+
+1. For n1 to n5, first complile Client1 class, and then compile Server class
+2. For Server, just compile Server class
+3. For file owner, type "Java Server"
+4. And then for n1 to n5, type "java Server"
